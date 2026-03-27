@@ -24,3 +24,4 @@ Criei uma view simples com o meu nome, configurei a URL da aplicação e execute
 ![localhost](./imagens/localhost.png)
 ![admin](./imagens/admin.png)
 ## Considerações finais:
+Creio que por ter sido uma atividade guiada, acabou por ser uma atividade mais tranquila de ser realizada, porém que imagino que sem guia haveria uma dificuldade bem maior em relação a memorização dos comandos informados pelo professor. 
